@@ -1,7 +1,4 @@
-*{
-    width: 80%;
-    margin: auto;
-}
+
 header{
     background-color: #E579E6;
     height: 105px;
@@ -41,7 +38,7 @@ main{
 .corpo{
     background-color: #ABCFE7;
     height: 320px;
-    width: 63.7%;
+    width: 73.7%;
     float: left;
     margin: 2%;
 }
