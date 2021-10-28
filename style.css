@@ -1,6 +1,5 @@
 *{
-    width: 90%;
-    margin: auto;
+
 }
 header{
     background-color: #E579E6;
@@ -29,28 +28,20 @@ main{
 .container{
     background-color: #0087FF;
 }
-.menu1{
+.menu{
     background-color: #ABCFE7;
     height: 320px;
     float: left;
-    margin: 20px 0;
+    margin: 2% 0;
     width: 210px;
 }
 
 .corpo{
     background-color: #ABCFE7;
     height: 320px;
-    width: 459px;
+    width: 61%;
     float: left;
-    margin: 20px;
-}
-
-.menu2{
-    background-color: #ABCFE7;
-    height: 320px;
-    float: left;
-    margin: 20px 0;
-    width: 210px;
+    margin: 2%;
 }
 
 footer{
