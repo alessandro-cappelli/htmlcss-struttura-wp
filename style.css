@@ -24,8 +24,21 @@ main{
     content: "";
     display: table;
     clear: both;
+    background-color: blue;
 }
 
-.menu{
-    
+.menu1{
+    background-color: #ABCFE7;
+    height: 320px;
+    float: left;
+    margin: 20px 0;
+    width: 210px;
+}
+
+.corpo{
+    background-color: #ABCFE7;
+    height: 320px;
+    width: 416px;
+    float: left;
+    margin: 20px;
 }
