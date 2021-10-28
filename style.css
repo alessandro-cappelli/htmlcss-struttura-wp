@@ -1,0 +1,31 @@
+*{
+    width: 90%;
+    margin: auto;
+}
+header{
+    background-color: #E579E6;
+    height: 105px;
+    margin-top: 20px;
+}
+
+main{
+    background-color: #E1D67A;
+    height: 350px;
+    margin-top: 20px;
+}
+
+.header2{
+    background-color: #ABCFE7;
+    height: 65px;
+    margin-top: 20px;
+}
+
+.container::after{
+    content: "";
+    display: table;
+    clear: both;
+}
+
+.menu{
+    
+}
