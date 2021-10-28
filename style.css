@@ -24,9 +24,11 @@ main{
     content: "";
     display: table;
     clear: both;
-    background-color: blue;
 }
 
+.container{
+    background-color: #0186FF;
+}
 .menu1{
     background-color: #ABCFE7;
     height: 320px;
@@ -38,7 +40,21 @@ main{
 .corpo{
     background-color: #ABCFE7;
     height: 320px;
-    width: 416px;
+    width: 459px;
     float: left;
     margin: 20px;
+}
+
+.menu2{
+    background-color: #ABCFE7;
+    height: 320px;
+    float: left;
+    margin: 20px 0;
+    width: 210px;
+}
+
+footer{
+    background-color: #8801FE;
+    height: 40px;
+    margin-top: 10px;
 }
