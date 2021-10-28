@@ -1,4 +1,7 @@
-
+*{
+    width: 80%;
+    margin: auto;
+}
 header{
     background-color: #E579E6;
     height: 105px;
@@ -38,13 +41,13 @@ main{
 .corpo{
     background-color: #ABCFE7;
     height: 320px;
-    width: 61%;
+    width: 52%;
     float: left;
     margin: 2%;
 }
 
 footer{
     background-color: #8801FE;
-    height: 40px;
+    height: 50px;
     margin-top: 10px;
 }
